@@ -1,0 +1,26 @@
+{
+  "name": "ig-autolove",
+  "version": "1.0.0",
+  "description": "Instagram AutoLove Timeline built using Chromium headless engine",
+  "main": "pup.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malhadijr/ig-autolove.git"
+  },
+  "keywords": [
+    "ig-autolove"
+  ],
+  "author": "Malhadi Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malhadijr/ig-autolove/issues"
+  },
+  "homepage": "https://github.com/malhadijr/ig-autolove#readme"
+}
